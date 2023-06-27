@@ -5,6 +5,6 @@ Skills Shown:
 
 Cleaned and transformed the data using Pandas.
 
-Performed exploratory data analysis using Pandas.
+Performed exploratory data analysis using Numpy and Pandas.
 
 Created various charts, plots and graphs using Matplotlib and Seaborn.
