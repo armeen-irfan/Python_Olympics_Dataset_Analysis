@@ -1,4 +1,4 @@
-# Olympics Dataset Analysis - Python
+# Olympics Dataset Analysis - Python (NumPy, Pandas, Matplotlib)
 Data Analysis on a historical dataset containing 120 years of Olympic history, including Olympic Games from 1896 to 2016.
 
 Skills Shown:
